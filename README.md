@@ -7,4 +7,5 @@
 > - Низкая цена
 
 *Логотип:*
+
 ![NeuroStartUp Logo](/img/logo.png)
